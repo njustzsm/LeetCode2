@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode V2.0", "LeetCode V2.0\LeetCode V2.0.vcxproj", "{414D5A43-577F-4E6B-913B-ACF92D666900}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "316. Remove Duplicate Letters", "316. Remove Duplicate Letters\316. Remove Duplicate Letters.vcxproj", "{0AB1A1EE-CC53-481C-91F8-AC6CE1CBC545}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "354. Russian Doll Envelopes", "354. Russian Doll Envelopes\354. Russian Doll Envelopes.vcxproj", "{8B36C10E-0313-44B4-A295-6E7466637D08}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "322. Coin Change", "322. Coin Change\322. Coin Change.vcxproj", "{6B14C408-7994-47A7-9003-E635E248EFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414D5A43-577F-4E6B-913B-ACF92D666900}.Debug|Win32.ActiveCfg = Debug|Win32
+		{414D5A43-577F-4E6B-913B-ACF92D666900}.Debug|Win32.Build.0 = Debug|Win32
+		{414D5A43-577F-4E6B-913B-ACF92D666900}.Release|Win32.ActiveCfg = Release|Win32
+		{414D5A43-577F-4E6B-913B-ACF92D666900}.Release|Win32.Build.0 = Release|Win32
+		{0AB1A1EE-CC53-481C-91F8-AC6CE1CBC545}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0AB1A1EE-CC53-481C-91F8-AC6CE1CBC545}.Debug|Win32.Build.0 = Debug|Win32
+		{0AB1A1EE-CC53-481C-91F8-AC6CE1CBC545}.Release|Win32.ActiveCfg = Release|Win32
+		{0AB1A1EE-CC53-481C-91F8-AC6CE1CBC545}.Release|Win32.Build.0 = Release|Win32
+		{8B36C10E-0313-44B4-A295-6E7466637D08}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B36C10E-0313-44B4-A295-6E7466637D08}.Debug|Win32.Build.0 = Debug|Win32
+		{8B36C10E-0313-44B4-A295-6E7466637D08}.Release|Win32.ActiveCfg = Release|Win32
+		{8B36C10E-0313-44B4-A295-6E7466637D08}.Release|Win32.Build.0 = Release|Win32
+		{6B14C408-7994-47A7-9003-E635E248EFAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B14C408-7994-47A7-9003-E635E248EFAE}.Debug|Win32.Build.0 = Debug|Win32
+		{6B14C408-7994-47A7-9003-E635E248EFAE}.Release|Win32.ActiveCfg = Release|Win32
+		{6B14C408-7994-47A7-9003-E635E248EFAE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
